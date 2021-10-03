@@ -29,3 +29,5 @@ Le bouton se sert donc plus à rien, il faut l'enlever.
 BONUS (pour ceux qui veulent aller plus loin): à l'aide d'une boucle, modifier le DOM pour les 4 jours sans dédoubler le code pour chaque jour.
 
 5. Le code inital est responsive, faire en sorte qu'il le reste... (Si vous avez tout bien fait, vous n'avez normalement rien à faire ici)
+
+Grégoire Pateyron TD04
